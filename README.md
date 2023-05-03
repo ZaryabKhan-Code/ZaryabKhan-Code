@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="30px"/> I'm Zaryab Khan</h1>
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Zaryab Khan</h1>
 <h3 align="center">Transforming Code into Value: Full-Stack Developer with DevOps Expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaryabkhan-code&label=Profile%20views&color=0e75b6&style=flat" alt="zaryabkhan-code" /> </p>
