@@ -6,7 +6,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFh1_GNTMY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFh1_GNTMY&#x2F;view?utm_content=DAFh1_GNTMY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">CO-FOUNDER &amp; COO-PRINTHASH</a>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif"  align="center" width="60px"/>, I'm Zaryab Khan</h1>
