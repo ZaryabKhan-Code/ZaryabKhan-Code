@@ -1,4 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/87335498/235852704-82e42a81-2132-4daa-ab94-bf1190fb25cd.png)" align="center">
+<img src="![image](https://user-images.githubusercontent.com/87335498/235852704-82e42a81-2132-4daa-ab94-bf1190fb25cd.png)">
 <h1 align="center">Hi 👋, I'm Zaryab Khan</h1>
 <h3 align="center">Transforming Code into Value: Full-Stack Developer with DevOps Expertise</h3>
 
