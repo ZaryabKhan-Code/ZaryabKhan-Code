@@ -2,7 +2,6 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<hr>
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif"  align="center" width="60px"/>, I'm Zaryab Khan</h1>
 <h3 align="center">Co-Founder & COO@PrintHash</h3>
 
