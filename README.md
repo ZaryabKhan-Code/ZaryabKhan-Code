@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif"  align="center" width="60px"/>, I'm Zaryab Khan</h1>
-<h3 align="center">Co-Founder & COO@PrintHash</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaryabkhan-code&label=Profile%20views&color=0e75b6&style=flat" alt="zaryabkhan-code" /> </p>
 
